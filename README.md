@@ -36,8 +36,8 @@ Preview - Mobile: <br>
 ### Links 
 <br>
 <ul>
-<li><a href="" target="_blank"> Repositórios</a></li>
-<li><a href="" target="_blank"> Site ao vivo</a></li>
+<li><a href="https://github.com/fernanda-nunes/pictures-list-page" target="_blank"> Repositórios</a></li>
+<li><a href="https://fernanda-nunes.github.io/pictures-list-page/" target="_blank"> Site ao vivo</a></li>
 </ul>
 <br>
 
