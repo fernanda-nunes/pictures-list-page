@@ -1,0 +1,42 @@
+main{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+section{
+    display: flex;
+    gap: 20px;
+    padding: 18px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+section .picture{
+    width: 335px;
+    height: 431px;
+    position: relative;
+}
+
+section .picture img{
+    width: 100%;
+}
+
+section .picture .info{
+    position: absolute;
+    bottom: 43px;
+    color: white;
+    margin-left: 20px;
+}
+
+section .picture .info h2{
+    font-size: 30px;
+    padding-bottom: 8px;
+}
+
+section .picture .info h3{
+    font-size: 17px;
+    font-weight: 300;
+}
+
